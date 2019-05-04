@@ -123,7 +123,7 @@
     "uniqCompNum": 13,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x80.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined"
