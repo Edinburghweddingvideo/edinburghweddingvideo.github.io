@@ -1,4 +1,8 @@
 @font-face {
-   font-family: 'Butler-Light';
-   src: url('Butler-Light/font.woff');
+   font-family: 'Warnock Pro';
+   src: url('Warnock Pro/font.ttf');
+}
+@font-face {
+   font-family: 'Azo Sans W01 Regular';
+   src: url('Azo Sans W01 Regular/font.ttf');
 }

@@ -1,6 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
-
 
 
 body {
@@ -19,14 +17,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Butler-Light';
-  font-size: 3.2rem;
+  font-family: 'Warnock Pro';
+  font-size: 3rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.12rem;
+  font-size: 4.8rem;
 }
 .display-2 {
-  font-family: 'Butler-Light';
+  font-family: 'Warnock Pro';
   font-size: 2.4rem;
 }
 .display-2 > .mbr-iconfont {
@@ -40,7 +38,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Azo Sans W01 Regular';
   font-size: 1rem;
 }
 .display-5 > .mbr-iconfont {
@@ -60,9 +58,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.56rem;
-    font-size: calc( 1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.4rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.92rem;
